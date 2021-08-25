@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on (nothing ! )
 - 📫 How to reach me ? 
 - via Email => picosoftco@gmail.com
-- via Telegram => https://te.me/PicoSoftco
+- via Telegram => https://t.me/PicoSoftco
 - And finally I'm programing a project that maybe changes our laboratorys. :)
 
 <!---

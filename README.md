@@ -3,7 +3,9 @@
   and fianally I love programming(C#.net) and make some teaches about my knowledge and knowns :), I'll be happy if you want to know more about me.
 - 🌱 I’m currently Students grid 11'th Experimental sceince (or natural science ? ) and learning Chemistry(selfstudy for olympiad)
 - 💞️ I’m looking to collaborate on (nothing ! )
-- 📫 How to reach me ? via Email => picosoftco@gmail.com
+- 📫 How to reach me ? 
+- via Email => picosoftco@gmail.com
+- via Telegram => https://te.me/PicoSoftco
 - And finally I'm programing a project that maybe changes our laboratorys. :)
 
 <!---
